@@ -1,0 +1,2 @@
+Welcome to Second day of GIT class
+Checking how the GIT is working
